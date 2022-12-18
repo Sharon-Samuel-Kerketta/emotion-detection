@@ -1,0 +1,5 @@
+fastapi==0.88.0
+transformers==4.25.1
+torch==1.13.1
+uvicorn==0.20.0
+black=22.12.0
